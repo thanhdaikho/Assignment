@@ -1,0 +1,73 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DMSerifDisplay-Italic.ttf",
+      "sha1": "ebfa39e71429e48cb35906620f4c98cd69be925b"
+    },
+    {
+      "path": "assets/fonts/DMSerifDisplay-Regular.ttf",
+      "sha1": "52571de962e2d8f26c20406d2400ec77676001b2"
+    },
+    {
+      "path": "assets/fonts/Domine-VariableFont_wght.ttf",
+      "sha1": "79aaf7ff279a0ee8f8fa9b947d1b4cea4fdb593a"
+    },
+    {
+      "path": "assets/fonts/Jost-Bold.ttf",
+      "sha1": "60eaf9ab668280a6ec2f5fc4f85bd285f22f8313"
+    },
+    {
+      "path": "assets/fonts/Jost-BoldItalic.ttf",
+      "sha1": "7bf171ae11f71824c2a4c053976c1aeeb3034b2b"
+    },
+    {
+      "path": "assets/fonts/Jost-Italic-VariableFont_wght.ttf",
+      "sha1": "4fcc4b3f98f868947de4bb63891e0b6fa76c6605"
+    },
+    {
+      "path": "assets/fonts/Jost-Italic.ttf",
+      "sha1": "a945463fa91132a6a7774dd7c1f09d8ea2fe5f46"
+    },
+    {
+      "path": "assets/fonts/Jost-SemiBold.ttf",
+      "sha1": "f2634732403730d25cdf33f789df97874a773ada"
+    },
+    {
+      "path": "assets/fonts/Jost-Thin.ttf",
+      "sha1": "b2e664de600fabd368229891854cd635c79bcb54"
+    },
+    {
+      "path": "assets/fonts/Jost-VariableFont_wght.ttf",
+      "sha1": "6169152528c5b53f3422e0527ac585e3ecb52b0e"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Bold.ttf",
+      "sha1": "f8081cbeceb2e69fdffca2348b2c9e0933cd52b5"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Italic.ttf",
+      "sha1": "1c4a7eed5b5ffeed2818cc75c16825596d64ab67"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Regular.ttf",
+      "sha1": "ed706d27473a09536d94fed8fee4809fda713759"
+    },
+    {
+      "path": "assets/fonts/PTSerif-Bold.ttf",
+      "sha1": "581675fd5d3734c5ee1506359190ce467c477e18"
+    },
+    {
+      "path": "assets/fonts/PTSerif-BoldItalic.ttf",
+      "sha1": "f440f00aae9cf53d7f40d4feb41fa380d063d502"
+    },
+    {
+      "path": "assets/fonts/PTSerif-Italic.ttf",
+      "sha1": "ab129b4c762edcc4724d46ee655f461bfc98bdaa"
+    },
+    {
+      "path": "assets/fonts/PTSerif-Regular.ttf",
+      "sha1": "9ea0ea4d9ed8fda292db458366dbd9af013eced7"
+    }
+  ]
+}
